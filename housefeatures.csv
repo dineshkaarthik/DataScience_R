@@ -1,0 +1,1450 @@
+ID,Zone,Utilities,Landmark
+1,RESHILL,Only Elec,University
+2,RES,Gas,Hospital
+3,RESSEA,Only Elec,Skools
+4,COMM,All,School
+5,AGR,All,University
+6,AGR,Only Elec,College
+7,AGR,Gas,College
+8,COMM,Gas,Woods
+9,RES,Gas,Hospital
+10,RESHILL,Gas,University
+11,RESSEA,Gas,School
+12,COMM,All,Skools
+13,RES,All,Woods
+14,AGR,All,Schools
+15,RES,All,Schools
+16,RES,Gas,School
+17,RESHILL,Only Elec,University
+18,RESHILL,Gas,School
+19,RESHILL,Only Elec,Hospital
+20,RESHILL,Gas,Skools
+21,AGR,All,University
+22,RES,Gas,Skools
+23,RESSEA,Gas,School
+24,AGR,Only Elec,Woods
+25,RES,All,Skools
+26,RESSEA,All,School
+27,COMM,All,Woods
+28,RESSEA,Only Elec,Woods
+29,RES,All,Woods
+30,RESHILL,All,Schools
+31,AGR,Gas,School
+32,COMM,Gas,Woods
+33,RES,Gas,School
+34,RESSEA,Gas,College
+35,RES,Only Elec,College
+36,RESSEA,All,Meadows
+37,RESHILL,All,Hospital
+38,AGR,Only Elec,School
+39,RESHILL,Gas,Skools
+40,RESHILL,All,University
+41,COMM,Only Elec,Skools
+42,RESSEA,Gas,Woods
+43,COMM,Gas,College
+44,RESSEA,All,School
+45,RESHILL,Gas,Schools
+46,RES,Only Elec,Meadows
+47,RESSEA,All,Woods
+48,RES,All,University
+49,COMM,All,Skools
+50,AGR,Gas,College
+51,RES,All,University
+52,RESHILL,All,Skools
+53,AGR,Only Elec,Schools
+54,RESSEA,Only Elec,College
+55,COMM,Only Elec,Woods
+56,RESSEA,Only Elec,College
+57,COMM,Gas,Hospital
+58,RES,All,University
+59,COMM,All,Woods
+60,RES,All,University
+61,COMM,Only Elec,Schools
+62,RESSEA,All,University
+63,RESSEA,Gas,Skools
+64,AGR,Gas,Hospital
+65,RESHILL,Only Elec,Schools
+66,RESHILL,All,School
+67,COMM,Only Elec,University
+68,COMM,All,Meadows
+69,RES,Gas,Hospital
+70,RES,Gas,School
+71,AGR,All,University
+72,RESSEA,All,University
+73,COMM,Gas,Skools
+74,COMM,All,Schools
+75,RESHILL,All,Skools
+76,RESHILL,Gas,Skools
+77,RESSEA,Gas,University
+78,RESHILL,Only Elec,Woods
+79,RES,Gas,Woods
+80,AGR,Gas,Woods
+81,RESSEA,Gas,Hospital
+82,COMM,Gas,Meadows
+83,RESSEA,Only Elec,University
+84,RESSEA,All,Meadows
+85,COMM,All,Schools
+86,RES,All,Woods
+87,COMM,All,Skools
+88,AGR,Only Elec,Hospital
+89,RESSEA,Only Elec,School
+90,RESSEA,Gas,Hospital
+91,AGR,Only Elec,Skools
+92,COMM,Gas,University
+93,RES,Gas,University
+94,COMM,All,University
+95,AGR,All,College
+96,AGR,All,Woods
+97,COMM,All,Meadows
+98,RES,All,Meadows
+99,AGR,All,University
+100,COMM,Only Elec,Hospital
+101,RES,Only Elec,College
+102,AGR,Gas,Schools
+103,RESSEA,Only Elec,University
+104,AGR,Only Elec,University
+105,RESHILL,Gas,Hospital
+106,RESSEA,Gas,University
+107,RESSEA,Gas,School
+108,RESSEA,All,College
+109,RESSEA,Only Elec,Schools
+110,RES,All,Hospital
+111,RES,All,Skools
+112,RESSEA,Only Elec,Skools
+113,RES,Gas,Schools
+114,RES,All,Schools
+115,RESSEA,Only Elec,Woods
+116,RES,Only Elec,Skools
+117,RES,Only Elec,Meadows
+118,RESSEA,Only Elec,Woods
+119,RESSEA,All,Skools
+120,COMM,All,School
+121,AGR,All,Hospital
+122,RESHILL,All,Woods
+123,RES,All,College
+124,AGR,Only Elec,Skools
+125,RESSEA,Gas,Woods
+126,RESHILL,Only Elec,School
+127,RESSEA,All,Meadows
+128,RESHILL,All,University
+129,RES,Gas,Meadows
+130,RESSEA,All,University
+131,RESHILL,Only Elec,Skools
+132,AGR,Gas,Meadows
+133,RESHILL,Only Elec,Meadows
+134,RES,Gas,Skools
+135,RESSEA,Only Elec,School
+136,AGR,Gas,Hospital
+137,RESSEA,Gas,Schools
+138,AGR,All,University
+139,AGR,Only Elec,University
+140,RES,All,Skools
+141,RES,All,School
+142,COMM,All,University
+143,AGR,All,Hospital
+144,AGR,All,Woods
+145,RESSEA,All,School
+146,COMM,All,Woods
+147,COMM,All,Skools
+148,RES,Only Elec,Skools
+149,RES,Gas,Hospital
+150,AGR,Gas,Hospital
+151,RESHILL,All,Meadows
+152,RES,All,School
+153,RESHILL,Only Elec,Schools
+154,AGR,All,College
+155,COMM,Gas,Skools
+156,RESHILL,Gas,Meadows
+157,RES,All,Meadows
+158,RES,Only Elec,University
+159,AGR,Gas,College
+160,RESHILL,Gas,Woods
+161,COMM,Only Elec,College
+162,COMM,Gas,Woods
+163,RESHILL,Only Elec,Schools
+164,COMM,Only Elec,University
+165,RES,Only Elec,College
+166,AGR,All,College
+167,AGR,All,School
+168,AGR,All,College
+169,AGR,Gas,College
+170,COMM,All,University
+171,RES,Only Elec,University
+172,RES,All,Woods
+173,RESSEA,Only Elec,Woods
+174,COMM,Only Elec,School
+175,COMM,All,School
+176,AGR,Gas,College
+177,COMM,Gas,Hospital
+178,RESSEA,Gas,Meadows
+179,RESHILL,All,School
+180,COMM,Gas,Hospital
+181,RESSEA,Only Elec,Skools
+182,RESHILL,Only Elec,Woods
+183,AGR,Only Elec,Schools
+184,COMM,Gas,University
+185,RESHILL,Only Elec,School
+186,RESSEA,Only Elec,Meadows
+187,RES,Gas,Schools
+188,COMM,Only Elec,School
+189,AGR,Only Elec,Meadows
+190,RESSEA,Gas,Schools
+191,AGR,Only Elec,Skools
+192,RES,Only Elec,Skools
+193,COMM,All,School
+194,RESSEA,Gas,Meadows
+195,COMM,Only Elec,Schools
+196,AGR,Gas,College
+197,RESHILL,Gas,Woods
+198,RESHILL,Gas,College
+199,RESSEA,Gas,Skools
+200,RESHILL,All,University
+201,RES,Gas,Schools
+202,RESHILL,All,Woods
+203,RES,All,Schools
+204,RES,Gas,Hospital
+205,RES,All,School
+206,RES,Gas,Woods
+207,AGR,All,Skools
+208,RESHILL,All,Skools
+209,RESSEA,Gas,Hospital
+210,RESSEA,Gas,School
+211,RESSEA,Only Elec,Hospital
+212,AGR,Gas,Schools
+213,RESSEA,Gas,College
+214,RESHILL,Gas,University
+215,RESSEA,All,Schools
+216,COMM,All,Skools
+217,RESHILL,Only Elec,University
+218,RESHILL,All,Schools
+219,COMM,Gas,Woods
+220,COMM,All,Hospital
+221,RESSEA,Only Elec,College
+222,AGR,All,Schools
+223,RESHILL,Only Elec,Hospital
+224,COMM,All,University
+225,RES,All,University
+226,RES,Gas,Skools
+227,AGR,Only Elec,Woods
+228,RESHILL,Gas,College
+229,AGR,All,Meadows
+230,RESHILL,Only Elec,University
+231,AGR,All,Woods
+232,AGR,All,Hospital
+233,RES,All,Hospital
+234,AGR,Gas,University
+235,RESSEA,Gas,School
+236,AGR,Only Elec,University
+237,AGR,Only Elec,University
+238,RES,All,School
+239,RESHILL,Gas,School
+240,AGR,Only Elec,Schools
+241,RES,Only Elec,College
+242,RESHILL,Gas,College
+243,COMM,All,Schools
+244,AGR,Gas,Schools
+245,RESSEA,Only Elec,University
+246,COMM,Only Elec,Woods
+247,RES,Only Elec,College
+248,RES,Only Elec,School
+249,AGR,All,School
+250,RESSEA,Only Elec,College
+251,RES,All,Hospital
+252,COMM,Gas,Hospital
+253,RES,Gas,University
+254,AGR,Gas,University
+255,RESHILL,All,Woods
+256,AGR,Gas,University
+257,AGR,All,Schools
+258,AGR,All,Meadows
+259,COMM,All,School
+260,RES,Gas,Skools
+261,AGR,Only Elec,School
+262,RES,All,Schools
+263,COMM,All,College
+264,AGR,All,University
+265,RESHILL,Only Elec,Hospital
+266,RESHILL,Gas,Woods
+267,RESSEA,Only Elec,Skools
+268,RESHILL,All,Meadows
+269,COMM,Gas,College
+270,AGR,Only Elec,School
+271,COMM,Gas,University
+272,RES,All,Meadows
+273,RESHILL,All,School
+274,AGR,Only Elec,School
+275,RESSEA,Gas,Schools
+276,RESSEA,Gas,Hospital
+277,COMM,Only Elec,School
+278,AGR,Only Elec,College
+279,AGR,All,University
+280,COMM,Gas,Hospital
+281,RESHILL,Only Elec,Schools
+282,RES,Gas,University
+283,RES,Gas,Woods
+284,RESHILL,Gas,University
+285,RESSEA,Only Elec,University
+286,RESHILL,Gas,Hospital
+287,RES,Gas,Hospital
+288,AGR,Gas,Hospital
+289,RESHILL,Only Elec,College
+290,COMM,Gas,College
+291,RESHILL,Gas,Woods
+292,RES,Only Elec,Schools
+293,AGR,Only Elec,Meadows
+294,COMM,Gas,Schools
+295,COMM,Gas,Woods
+296,COMM,Gas,Schools
+297,AGR,All,Woods
+298,RESHILL,All,Woods
+299,COMM,Only Elec,School
+300,RES,All,University
+301,RES,All,Woods
+302,RESSEA,Only Elec,School
+303,COMM,Gas,School
+304,RES,Gas,Schools
+305,COMM,Only Elec,College
+306,AGR,Gas,School
+307,COMM,Only Elec,Schools
+308,RES,Only Elec,University
+309,COMM,Gas,Woods
+310,RES,Gas,Meadows
+311,RESSEA,All,Woods
+312,AGR,All,Schools
+313,RES,All,College
+314,RES,Only Elec,Skools
+315,AGR,Gas,University
+316,RESHILL,Only Elec,College
+317,RES,Only Elec,School
+318,RESSEA,Only Elec,School
+319,AGR,Only Elec,Meadows
+320,AGR,All,Woods
+321,RESSEA,All,College
+322,COMM,Gas,School
+323,RESHILL,Only Elec,University
+324,RES,All,Woods
+325,RES,Only Elec,Schools
+326,COMM,Only Elec,Skools
+327,RES,All,Woods
+328,RESSEA,Gas,Schools
+329,RESSEA,Gas,College
+330,RESSEA,Gas,College
+331,RESSEA,Gas,Skools
+332,RES,All,Hospital
+333,AGR,All,College
+334,RES,Gas,University
+335,COMM,Only Elec,School
+336,AGR,Gas,Hospital
+337,RES,All,Meadows
+338,RESSEA,Gas,Skools
+339,RESHILL,Only Elec,College
+340,RESSEA,All,Skools
+341,RESHILL,All,College
+342,RESSEA,Gas,Meadows
+343,AGR,All,School
+344,RESSEA,All,Meadows
+345,COMM,Only Elec,School
+346,RESHILL,Only Elec,Hospital
+347,RES,Only Elec,University
+348,RESHILL,Only Elec,Woods
+349,RESHILL,Gas,Meadows
+350,RES,Gas,Skools
+351,RES,Only Elec,Meadows
+352,RES,Only Elec,Woods
+353,AGR,Gas,Woods
+354,COMM,All,Skools
+355,RESSEA,Only Elec,Schools
+356,RESSEA,Only Elec,Meadows
+357,RESHILL,Gas,Skools
+358,COMM,Only Elec,Meadows
+359,RESSEA,Gas,School
+360,RESSEA,All,School
+361,RES,Only Elec,Hospital
+362,RES,Only Elec,University
+363,COMM,Gas,Woods
+364,RESSEA,Gas,Hospital
+365,RESHILL,Gas,Hospital
+366,RESSEA,Gas,School
+367,RESHILL,Gas,Schools
+368,AGR,All,College
+369,RESHILL,Only Elec,Schools
+370,RES,Gas,Hospital
+371,AGR,Only Elec,Skools
+372,RESHILL,All,Hospital
+373,RESHILL,Only Elec,Schools
+374,COMM,Only Elec,College
+375,RESHILL,Only Elec,College
+376,RESSEA,All,School
+377,RESHILL,All,University
+378,AGR,Only Elec,Woods
+379,AGR,Gas,Schools
+380,COMM,Gas,Schools
+381,COMM,Gas,Hospital
+382,AGR,All,Meadows
+383,AGR,Only Elec,Woods
+384,RESHILL,Only Elec,School
+385,RES,All,Schools
+386,RESHILL,Only Elec,Schools
+387,RESSEA,All,Schools
+388,RESHILL,Only Elec,College
+389,RES,Gas,Skools
+390,RESHILL,Gas,Skools
+391,RES,All,School
+392,RESSEA,Only Elec,University
+393,RESHILL,All,Meadows
+394,RESHILL,Only Elec,School
+395,RESHILL,Gas,Meadows
+396,RESHILL,All,Skools
+397,RESSEA,Only Elec,University
+398,RESSEA,Only Elec,Skools
+399,AGR,All,Meadows
+400,RESHILL,Only Elec,University
+401,RES,Only Elec,Woods
+402,RES,Gas,College
+403,AGR,Gas,Hospital
+404,AGR,All,Meadows
+405,RES,Gas,Schools
+406,COMM,Only Elec,School
+407,RESSEA,Only Elec,Skools
+408,RESSEA,Gas,Schools
+409,RESSEA,Gas,Meadows
+410,RES,All,College
+411,AGR,All,College
+412,RESHILL,Only Elec,Meadows
+413,RESSEA,All,Meadows
+414,RESSEA,Gas,Woods
+415,RESSEA,Gas,Schools
+416,RESSEA,Gas,Meadows
+417,RESSEA,Only Elec,Skools
+418,AGR,Only Elec,College
+419,RESHILL,Gas,College
+420,RES,Only Elec,School
+421,RES,Gas,Meadows
+422,COMM,Only Elec,School
+423,RESHILL,Only Elec,Hospital
+424,RESSEA,All,School
+425,AGR,All,University
+426,RES,Only Elec,Skools
+427,RES,All,Meadows
+428,AGR,Gas,School
+429,RESHILL,Only Elec,Schools
+430,COMM,All,Woods
+431,COMM,All,Schools
+432,AGR,Only Elec,College
+433,RESHILL,Gas,Hospital
+434,RESSEA,All,Woods
+435,RES,Gas,Meadows
+436,RES,All,Schools
+437,RES,Gas,Meadows
+438,RESSEA,All,Meadows
+439,RESSEA,All,Hospital
+440,AGR,Only Elec,Schools
+441,RESHILL,Gas,Skools
+442,AGR,Only Elec,Meadows
+443,RESHILL,Gas,Schools
+444,AGR,Only Elec,Woods
+445,AGR,All,College
+446,AGR,Gas,University
+447,RESSEA,Only Elec,Schools
+448,COMM,Gas,Schools
+449,RESSEA,Only Elec,University
+450,AGR,All,University
+451,RESHILL,All,School
+452,RESSEA,All,College
+453,RES,Only Elec,School
+454,COMM,Gas,Hospital
+455,RESHILL,All,University
+456,RES,Gas,Woods
+457,RES,Gas,Skools
+458,AGR,All,Skools
+459,RESHILL,All,University
+460,RESHILL,All,Woods
+461,COMM,Only Elec,Meadows
+462,COMM,Only Elec,Hospital
+463,AGR,Gas,Woods
+464,RESHILL,All,College
+465,RESSEA,All,Meadows
+466,RESHILL,Gas,Skools
+467,COMM,Gas,Hospital
+468,RESSEA,All,Skools
+469,COMM,All,Hospital
+470,COMM,Only Elec,College
+471,RESSEA,Gas,University
+472,RESSEA,Only Elec,Hospital
+473,RESSEA,Gas,University
+474,RESHILL,Only Elec,School
+475,RESHILL,Only Elec,Skools
+476,AGR,Only Elec,University
+477,RESHILL,Gas,College
+478,RES,All,Meadows
+479,RESSEA,All,College
+480,RESHILL,Only Elec,Woods
+481,COMM,All,University
+482,RES,Only Elec,Hospital
+483,RESSEA,All,Meadows
+484,RES,All,College
+485,AGR,Only Elec,Skools
+486,AGR,Gas,University
+487,RES,All,School
+488,RESSEA,All,University
+489,RESSEA,All,Woods
+490,RESSEA,Only Elec,College
+491,AGR,All,Hospital
+492,RESHILL,All,Hospital
+493,RESHILL,All,School
+494,RES,Only Elec,Meadows
+495,RES,Only Elec,University
+496,COMM,All,Hospital
+497,RESHILL,Gas,School
+498,RES,All,Schools
+499,AGR,Gas,Schools
+500,AGR,Gas,Skools
+501,COMM,All,Woods
+502,RESHILL,Gas,University
+503,AGR,Only Elec,Skools
+504,RESHILL,Gas,Meadows
+505,RES,All,Meadows
+506,COMM,Gas,Hospital
+507,AGR,Gas,University
+508,RES,All,Hospital
+509,RES,Only Elec,Meadows
+510,RES,All,University
+511,COMM,Only Elec,College
+512,RESSEA,Gas,College
+513,RESSEA,All,Meadows
+514,RESHILL,All,Hospital
+515,AGR,Only Elec,Skools
+516,RES,All,Hospital
+517,RES,Only Elec,Woods
+518,RES,Gas,Schools
+519,AGR,Only Elec,Skools
+520,RESSEA,Only Elec,University
+521,COMM,Only Elec,School
+522,RES,Gas,Hospital
+523,RES,All,Skools
+524,RESSEA,All,Meadows
+525,AGR,All,Meadows
+526,RESHILL,Gas,Hospital
+527,AGR,All,Skools
+528,RESSEA,All,Schools
+529,RES,Gas,Meadows
+530,RES,All,Hospital
+531,RESHILL,Only Elec,Schools
+532,COMM,Only Elec,Meadows
+533,RESSEA,Gas,University
+534,RESHILL,Gas,Meadows
+535,COMM,Only Elec,Woods
+536,RESHILL,All,Schools
+537,RESHILL,All,School
+538,RES,Only Elec,School
+539,AGR,Gas,Woods
+540,RES,Gas,Schools
+541,COMM,Gas,College
+542,AGR,Gas,Woods
+543,RES,Only Elec,Schools
+544,RES,All,Schools
+545,COMM,All,Hospital
+546,AGR,All,Schools
+547,AGR,All,Meadows
+548,RESHILL,Gas,Schools
+549,COMM,All,Schools
+550,RESHILL,Only Elec,Woods
+551,RESSEA,Only Elec,School
+552,RESSEA,Only Elec,University
+553,RES,All,College
+554,RESSEA,All,School
+555,AGR,Only Elec,Woods
+556,AGR,All,University
+557,RES,Gas,Woods
+558,AGR,Gas,School
+559,RES,Gas,Schools
+560,RESHILL,Gas,College
+561,RESHILL,Only Elec,University
+562,COMM,Gas,Woods
+563,AGR,All,Hospital
+564,RESHILL,Gas,Woods
+565,RESSEA,Gas,University
+566,RES,Gas,Hospital
+567,RES,Gas,Skools
+568,RESSEA,Only Elec,Skools
+569,RES,All,Hospital
+570,COMM,Only Elec,Hospital
+571,RESSEA,All,Skools
+572,COMM,All,Meadows
+573,COMM,Gas,Hospital
+574,RESHILL,Gas,Woods
+575,RESHILL,All,Schools
+576,RESHILL,All,University
+577,RES,All,Schools
+578,RESHILL,Only Elec,Woods
+579,RESSEA,Only Elec,Woods
+580,RESHILL,Gas,Schools
+581,RES,All,College
+582,RESHILL,Gas,University
+583,RESHILL,All,Woods
+584,COMM,Only Elec,Schools
+585,AGR,Gas,University
+586,AGR,All,Schools
+587,RESSEA,Only Elec,College
+588,AGR,All,School
+589,RESHILL,Only Elec,University
+590,RESSEA,Only Elec,Hospital
+591,RES,Gas,Schools
+592,RES,Only Elec,Hospital
+593,COMM,Gas,Woods
+594,RES,All,Meadows
+595,RESSEA,Only Elec,Schools
+596,AGR,All,Skools
+597,RESSEA,Gas,Skools
+598,COMM,Only Elec,University
+599,RESSEA,Only Elec,Schools
+600,AGR,Only Elec,Skools
+601,RESSEA,Only Elec,Woods
+602,RESHILL,Gas,Woods
+603,RESHILL,Gas,College
+604,AGR,Gas,Schools
+605,COMM,All,Woods
+606,RES,Only Elec,Skools
+607,AGR,All,Woods
+608,AGR,All,Schools
+609,COMM,Only Elec,Woods
+610,RES,Only Elec,Skools
+611,AGR,Gas,College
+612,COMM,Gas,Meadows
+613,RES,Only Elec,University
+614,AGR,All,Skools
+615,COMM,Gas,Hospital
+616,RESHILL,Gas,Woods
+617,RESHILL,All,School
+618,AGR,All,Hospital
+619,RES,Only Elec,School
+620,RESSEA,Gas,College
+621,COMM,Gas,Schools
+622,RES,All,College
+623,AGR,Only Elec,College
+624,RES,All,Woods
+625,RESHILL,Only Elec,Skools
+626,RESHILL,Only Elec,School
+627,AGR,Only Elec,Woods
+628,COMM,Gas,Meadows
+629,AGR,Only Elec,Skools
+630,RES,All,University
+631,RES,Only Elec,School
+632,AGR,All,School
+633,COMM,All,Woods
+634,AGR,Only Elec,Meadows
+635,RES,Gas,Meadows
+636,AGR,Gas,Skools
+637,AGR,Only Elec,College
+638,COMM,Gas,Skools
+639,AGR,Only Elec,Hospital
+640,RESHILL,All,Meadows
+641,COMM,Only Elec,Woods
+642,RESSEA,Gas,Woods
+643,RESHILL,Gas,College
+644,COMM,Gas,Skools
+645,AGR,Gas,School
+646,RESHILL,All,College
+647,AGR,All,Hospital
+648,COMM,Only Elec,Woods
+649,AGR,Gas,Schools
+650,RES,Only Elec,Hospital
+651,RESHILL,All,School
+652,RESHILL,Only Elec,College
+653,RES,Only Elec,University
+654,AGR,Only Elec,Woods
+655,AGR,Gas,Meadows
+656,AGR,Only Elec,Skools
+657,COMM,All,Meadows
+658,COMM,Only Elec,University
+659,COMM,Gas,Schools
+660,AGR,All,Schools
+661,COMM,Gas,Schools
+662,RES,All,Skools
+663,RESHILL,Only Elec,School
+664,RES,All,School
+665,RES,Gas,College
+666,RESSEA,Only Elec,University
+667,COMM,Only Elec,Hospital
+668,AGR,All,University
+669,COMM,Only Elec,Skools
+670,RESHILL,All,School
+671,AGR,All,School
+672,RES,Only Elec,Hospital
+673,AGR,All,Skools
+674,RESSEA,Gas,Woods
+675,COMM,All,Woods
+676,AGR,Only Elec,Woods
+677,COMM,Only Elec,Schools
+678,AGR,Only Elec,Woods
+679,RES,Gas,Meadows
+680,COMM,Only Elec,Schools
+681,RES,Only Elec,University
+682,RES,All,University
+683,RESHILL,Gas,Schools
+684,COMM,Only Elec,Meadows
+685,AGR,Only Elec,University
+686,RESHILL,Gas,Hospital
+687,RES,Only Elec,School
+688,RES,Gas,School
+689,RESHILL,Only Elec,University
+690,RESSEA,Only Elec,Meadows
+691,RESSEA,Gas,Hospital
+692,RESHILL,Gas,Schools
+693,COMM,All,Schools
+694,RES,Only Elec,Skools
+695,RES,Only Elec,Meadows
+696,RESHILL,Only Elec,College
+697,RESSEA,Gas,Schools
+698,RESHILL,Only Elec,Hospital
+699,RESSEA,Gas,School
+700,RES,All,Meadows
+701,RES,Gas,Woods
+702,RESSEA,Gas,Hospital
+703,AGR,All,Schools
+704,AGR,Only Elec,Meadows
+705,RESHILL,Only Elec,Woods
+706,RESSEA,Only Elec,Schools
+707,AGR,Gas,Schools
+708,RESSEA,Gas,Meadows
+709,RES,Only Elec,Skools
+710,RESSEA,Only Elec,Hospital
+711,RES,All,Meadows
+712,RESHILL,All,Schools
+713,RESHILL,All,Woods
+714,RES,All,University
+715,AGR,All,College
+716,RES,All,College
+717,RES,Only Elec,Meadows
+718,RESSEA,Gas,University
+719,COMM,All,Woods
+720,RESSEA,Gas,Meadows
+721,RESSEA,All,Skools
+722,AGR,Gas,Meadows
+723,RESSEA,Only Elec,Meadows
+724,RES,All,Woods
+725,AGR,Gas,College
+726,RESHILL,Gas,College
+727,COMM,All,Woods
+728,RESHILL,All,Meadows
+729,RESHILL,Only Elec,Meadows
+730,RESHILL,Gas,Hospital
+731,RES,Only Elec,Meadows
+732,COMM,Only Elec,University
+733,RESSEA,Gas,Meadows
+734,RESSEA,Only Elec,Woods
+735,AGR,Gas,Meadows
+736,COMM,Gas,Hospital
+737,RESSEA,Only Elec,Meadows
+738,AGR,All,Woods
+739,RESHILL,Gas,Skools
+740,RESSEA,All,School
+741,RES,Only Elec,School
+742,COMM,Gas,Skools
+743,RESHILL,Only Elec,Schools
+744,RES,All,Skools
+745,RESHILL,Only Elec,Skools
+746,AGR,Only Elec,Hospital
+747,COMM,Only Elec,University
+748,RESHILL,All,Schools
+749,COMM,Gas,School
+750,COMM,Gas,College
+751,RESHILL,Only Elec,Skools
+752,RES,Gas,Hospital
+753,RESSEA,Only Elec,Meadows
+754,RESSEA,Only Elec,Hospital
+755,RESHILL,Only Elec,Meadows
+756,RESHILL,Gas,Skools
+757,RESHILL,All,Hospital
+758,RESSEA,Gas,Schools
+759,AGR,Only Elec,University
+760,COMM,Gas,Meadows
+761,RESSEA,Gas,Hospital
+762,COMM,All,School
+763,AGR,Only Elec,College
+764,RESSEA,All,University
+765,COMM,Only Elec,Skools
+766,COMM,All,College
+767,AGR,Only Elec,College
+768,RESHILL,Only Elec,College
+769,RES,Only Elec,University
+770,RESHILL,Gas,College
+771,RES,Only Elec,College
+772,RESHILL,Gas,University
+773,RESSEA,All,School
+774,COMM,Only Elec,Woods
+775,RESSEA,Gas,Skools
+776,RESHILL,All,Schools
+777,AGR,Only Elec,Meadows
+778,RESHILL,All,University
+779,AGR,Only Elec,Schools
+780,RESSEA,Gas,Woods
+781,COMM,Only Elec,Hospital
+782,RES,Only Elec,Skools
+783,AGR,Only Elec,College
+784,COMM,All,Hospital
+785,AGR,All,Schools
+786,RES,All,School
+787,COMM,All,University
+788,COMM,Only Elec,Meadows
+789,RES,All,University
+790,RESHILL,Gas,Hospital
+791,COMM,Gas,Schools
+792,RESSEA,Only Elec,Skools
+793,RESSEA,Only Elec,Hospital
+794,AGR,Only Elec,Schools
+795,COMM,Gas,School
+796,AGR,All,Schools
+797,COMM,Gas,Hospital
+798,RESSEA,Gas,Meadows
+799,RESSEA,Gas,Hospital
+800,RESHILL,Only Elec,Schools
+801,RESSEA,Gas,College
+802,RESHILL,All,Woods
+803,RESHILL,Gas,Hospital
+804,RES,Gas,University
+805,RESHILL,All,Schools
+806,AGR,Only Elec,School
+807,RESHILL,Only Elec,Hospital
+808,RESSEA,Gas,Hospital
+809,RESHILL,Only Elec,Hospital
+810,COMM,Gas,Schools
+811,RESSEA,All,Meadows
+812,COMM,Only Elec,Hospital
+813,COMM,Gas,Hospital
+814,AGR,All,Skools
+815,RESHILL,Gas,College
+816,RES,Only Elec,School
+817,RESSEA,All,Schools
+818,RES,Gas,University
+819,RES,Only Elec,School
+820,RESSEA,Only Elec,School
+821,RESHILL,Only Elec,College
+822,RESSEA,All,School
+823,AGR,Only Elec,University
+824,RESSEA,Gas,College
+825,COMM,Gas,Woods
+826,COMM,Gas,University
+827,RES,Gas,College
+828,RESHILL,All,Hospital
+829,COMM,Only Elec,Skools
+830,RESHILL,Only Elec,Meadows
+831,RES,All,Hospital
+832,AGR,Gas,Hospital
+833,RESSEA,All,Meadows
+834,AGR,Only Elec,Meadows
+835,COMM,Gas,College
+836,RES,All,College
+837,RESSEA,Gas,Hospital
+838,RESHILL,All,Meadows
+839,RESHILL,Gas,Woods
+840,RESSEA,All,Hospital
+841,COMM,All,University
+842,RES,Only Elec,Skools
+843,RESHILL,All,Meadows
+844,RESSEA,Only Elec,School
+845,RESSEA,All,University
+846,RES,Gas,Meadows
+847,RESHILL,Only Elec,School
+848,RES,Gas,University
+849,RES,Gas,Woods
+850,AGR,All,Meadows
+851,RESHILL,All,Woods
+852,AGR,Only Elec,University
+853,COMM,Only Elec,School
+854,AGR,All,Woods
+855,RESHILL,Only Elec,Hospital
+856,COMM,Only Elec,University
+857,RESHILL,Only Elec,Meadows
+858,RESHILL,Gas,Hospital
+859,RESHILL,Only Elec,University
+860,RESHILL,Only Elec,Hospital
+861,COMM,Only Elec,Skools
+862,COMM,Gas,Hospital
+863,COMM,Only Elec,Woods
+864,RESSEA,Gas,Schools
+865,RESHILL,Gas,University
+866,RES,Gas,University
+867,RES,Gas,College
+868,COMM,All,Schools
+869,RES,Gas,College
+870,RESHILL,Gas,Skools
+871,COMM,Gas,University
+872,RES,All,College
+873,COMM,All,Schools
+874,COMM,Gas,Meadows
+875,RES,Gas,School
+876,RESHILL,All,Schools
+877,AGR,Only Elec,School
+878,COMM,Only Elec,Woods
+879,AGR,Gas,University
+880,RESHILL,Gas,Schools
+881,RES,All,University
+882,RESSEA,Gas,Hospital
+883,RESHILL,Only Elec,University
+884,RESHILL,Gas,University
+885,RESSEA,Only Elec,University
+886,COMM,Gas,Skools
+887,RESHILL,Only Elec,Woods
+888,RESHILL,Only Elec,Meadows
+889,AGR,All,College
+890,COMM,Only Elec,Woods
+891,RESHILL,Gas,University
+892,COMM,All,Woods
+893,RESSEA,Gas,Skools
+894,RES,All,Woods
+895,RES,Gas,College
+896,COMM,All,Skools
+897,COMM,Gas,Hospital
+898,RESSEA,Only Elec,Skools
+899,AGR,Only Elec,Meadows
+900,RESHILL,Only Elec,Meadows
+901,COMM,All,Hospital
+902,COMM,All,Hospital
+903,RESHILL,All,Hospital
+904,COMM,All,Skools
+905,COMM,All,College
+906,AGR,Only Elec,Meadows
+907,RESHILL,Only Elec,University
+908,RES,Gas,Hospital
+909,AGR,Only Elec,Skools
+910,RES,Only Elec,School
+911,RES,Only Elec,University
+912,RESHILL,Only Elec,Hospital
+913,RES,Gas,College
+914,RES,All,University
+915,RESSEA,All,University
+916,RESHILL,Gas,Meadows
+917,AGR,Gas,Schools
+918,RESHILL,Only Elec,University
+919,RESHILL,All,Skools
+920,COMM,Only Elec,Meadows
+921,AGR,Gas,Meadows
+922,RESSEA,All,Skools
+923,COMM,Gas,University
+924,RES,All,University
+925,RES,Gas,University
+926,RESSEA,Only Elec,Woods
+927,RESSEA,Only Elec,Hospital
+928,RESHILL,All,Schools
+929,RES,Only Elec,Skools
+930,RES,Only Elec,Schools
+931,RES,All,School
+932,RESHILL,Only Elec,University
+933,RESSEA,Gas,College
+934,RES,Only Elec,Hospital
+935,RES,All,Schools
+936,RESHILL,All,Skools
+937,RES,Only Elec,Meadows
+938,RESSEA,Gas,Skools
+939,RESHILL,All,Woods
+940,COMM,Only Elec,Skools
+941,RESHILL,Gas,College
+942,RESHILL,Gas,College
+943,COMM,Gas,Woods
+944,RESHILL,Gas,Meadows
+945,RES,All,College
+946,RES,All,University
+947,AGR,Only Elec,Meadows
+948,COMM,Only Elec,Meadows
+949,RES,Only Elec,Skools
+950,RES,All,College
+951,RESHILL,Only Elec,College
+952,RESSEA,All,School
+953,AGR,Only Elec,Skools
+954,RES,All,Hospital
+955,RESHILL,Only Elec,Skools
+956,COMM,All,Skools
+957,RESHILL,Only Elec,University
+958,COMM,Gas,Hospital
+959,RES,Only Elec,School
+960,RESSEA,All,Skools
+961,RES,All,Hospital
+962,AGR,All,School
+963,RESHILL,Gas,University
+964,COMM,All,Schools
+965,RESSEA,Only Elec,Skools
+966,RESSEA,Gas,Hospital
+967,RESHILL,All,College
+968,RESHILL,Gas,University
+969,RESSEA,Only Elec,School
+970,AGR,Gas,School
+971,AGR,Gas,School
+972,AGR,Gas,Hospital
+973,COMM,Gas,College
+974,RES,Only Elec,Woods
+975,RESHILL,Only Elec,University
+976,COMM,All,School
+977,RESSEA,Gas,Schools
+978,RES,Gas,Skools
+979,RESSEA,Only Elec,Meadows
+980,RESSEA,All,Meadows
+981,RESSEA,Gas,Woods
+982,RESHILL,Only Elec,Schools
+983,AGR,All,Schools
+984,RESHILL,All,School
+985,AGR,All,Schools
+986,COMM,Only Elec,College
+987,RESHILL,Only Elec,Woods
+988,COMM,All,Skools
+989,RESHILL,Only Elec,Hospital
+990,AGR,Gas,School
+991,RESSEA,Only Elec,Schools
+992,RES,Only Elec,College
+993,AGR,All,Skools
+994,RESHILL,All,Schools
+995,AGR,All,School
+996,RESSEA,Gas,Woods
+997,RES,Gas,College
+998,COMM,All,Hospital
+999,AGR,Only Elec,Schools
+1000,AGR,All,Woods
+1001,RES,All,Hospital
+1002,AGR,Gas,College
+1003,RES,Only Elec,Woods
+1004,RESSEA,All,Skools
+1005,RES,All,Schools
+1006,RESHILL,Only Elec,Skools
+1007,RES,Only Elec,Meadows
+1008,RESSEA,All,Hospital
+1009,AGR,Gas,Hospital
+1010,COMM,Gas,University
+1011,RES,Gas,Schools
+1012,AGR,All,Woods
+1013,RES,All,Skools
+1014,COMM,All,School
+1015,RESSEA,All,Skools
+1016,AGR,All,School
+1017,RES,Only Elec,University
+1018,AGR,All,Schools
+1019,RESHILL,All,School
+1020,RES,Only Elec,Hospital
+1021,COMM,Gas,School
+1022,COMM,All,Skools
+1023,RESSEA,Gas,Meadows
+1024,AGR,Only Elec,School
+1025,RESSEA,Only Elec,Meadows
+1026,RESHILL,All,Hospital
+1027,AGR,Only Elec,Skools
+1028,RES,Only Elec,Schools
+1029,AGR,All,Woods
+1030,RESSEA,All,Schools
+1031,RESSEA,All,Skools
+1032,COMM,Gas,College
+1033,RES,Gas,University
+1034,COMM,All,Schools
+1035,RESHILL,Only Elec,University
+1036,RES,All,School
+1037,AGR,Only Elec,College
+1038,RES,Gas,Skools
+1039,RESSEA,All,School
+1040,RESHILL,Only Elec,Hospital
+1041,RES,All,Meadows
+1042,RESSEA,Gas,Meadows
+1043,RESSEA,All,Woods
+1044,RES,Only Elec,University
+1045,COMM,Gas,College
+1046,COMM,Gas,Meadows
+1047,RES,All,Hospital
+1048,RESHILL,Only Elec,School
+1049,RES,Only Elec,University
+1050,RES,Only Elec,University
+1051,RESHILL,All,Woods
+1052,RESHILL,Gas,College
+1053,COMM,All,Schools
+1054,RESSEA,Gas,College
+1055,RESSEA,Gas,Hospital
+1056,AGR,Only Elec,School
+1057,RESSEA,All,University
+1058,RESHILL,Only Elec,Skools
+1059,RESSEA,Only Elec,Woods
+1060,AGR,Only Elec,Schools
+1061,RESSEA,Only Elec,Schools
+1062,RESHILL,Gas,Hospital
+1063,AGR,All,Woods
+1064,RESSEA,Gas,Meadows
+1065,AGR,All,Woods
+1066,RESHILL,All,Schools
+1067,AGR,Only Elec,University
+1068,RESHILL,Gas,Skools
+1069,RESHILL,Only Elec,Skools
+1070,AGR,All,Hospital
+1071,RES,Only Elec,Skools
+1072,RESHILL,All,Woods
+1073,RESHILL,All,Woods
+1074,RES,Gas,Schools
+1075,RESSEA,All,University
+1076,AGR,All,Skools
+1077,RESHILL,Only Elec,University
+1078,COMM,All,Meadows
+1079,RESHILL,Gas,College
+1080,RES,All,Schools
+1081,AGR,Only Elec,School
+1082,AGR,All,Skools
+1083,RES,Gas,Skools
+1084,RES,Only Elec,Schools
+1085,COMM,All,Woods
+1086,AGR,Gas,Meadows
+1087,RESSEA,Gas,Skools
+1088,COMM,Only Elec,Hospital
+1089,RESSEA,Only Elec,School
+1090,AGR,Only Elec,Meadows
+1091,AGR,All,Meadows
+1092,COMM,All,Hospital
+1093,RES,Gas,Woods
+1094,AGR,Only Elec,Hospital
+1095,RESHILL,Gas,Meadows
+1096,RESSEA,All,Skools
+1097,RESHILL,Only Elec,Skools
+1098,AGR,Gas,Schools
+1099,RESHILL,Gas,College
+1100,AGR,Gas,Hospital
+1101,RES,All,Skools
+1102,RES,Gas,College
+1103,COMM,Gas,Schools
+1104,RESHILL,Gas,Schools
+1105,COMM,All,Meadows
+1106,RESSEA,Gas,Hospital
+1107,RESHILL,Only Elec,Woods
+1108,RESSEA,All,Meadows
+1109,AGR,Only Elec,College
+1110,AGR,Only Elec,Woods
+1111,COMM,Gas,Hospital
+1112,COMM,Gas,Hospital
+1113,COMM,Only Elec,Woods
+1114,RESHILL,All,Skools
+1115,RESHILL,All,School
+1116,RESHILL,All,Skools
+1117,AGR,Only Elec,Meadows
+1118,RESSEA,All,Woods
+1119,RESHILL,All,Schools
+1120,COMM,All,Meadows
+1121,RESSEA,Only Elec,School
+1122,COMM,All,College
+1123,RESHILL,Only Elec,College
+1124,COMM,Only Elec,School
+1125,RESSEA,All,Skools
+1126,COMM,All,University
+1127,COMM,All,University
+1128,COMM,Only Elec,Woods
+1129,RES,Only Elec,University
+1130,RES,Gas,School
+1131,RESSEA,All,Woods
+1132,AGR,Only Elec,Meadows
+1133,RESHILL,Only Elec,Schools
+1134,RESSEA,Gas,Skools
+1135,COMM,Gas,Hospital
+1136,RES,All,University
+1137,RES,Only Elec,Woods
+1138,AGR,All,University
+1139,RESSEA,Gas,Woods
+1140,RESSEA,Only Elec,Meadows
+1141,RESHILL,Only Elec,Skools
+1142,RES,Only Elec,Schools
+1143,COMM,Gas,Hospital
+1144,RESSEA,All,College
+1145,RESHILL,All,Meadows
+1146,AGR,All,College
+1147,COMM,Gas,Meadows
+1148,RESHILL,Only Elec,Schools
+1149,RES,All,School
+1150,RESHILL,Only Elec,Schools
+1151,RESSEA,Gas,College
+1152,RES,Gas,University
+1153,RESSEA,Only Elec,Skools
+1154,COMM,All,Meadows
+1155,AGR,Only Elec,Skools
+1156,RESHILL,All,Schools
+1157,RES,All,University
+1158,COMM,Gas,College
+1159,COMM,Only Elec,College
+1160,COMM,All,Skools
+1161,RESHILL,All,Hospital
+1162,COMM,Gas,Woods
+1163,RESHILL,All,Meadows
+1164,AGR,All,Meadows
+1165,COMM,Gas,Meadows
+1166,COMM,All,Hospital
+1167,RES,All,Skools
+1168,AGR,Only Elec,Schools
+1169,COMM,Gas,University
+1170,RES,Only Elec,Woods
+1171,COMM,All,Skools
+1172,RESSEA,Gas,Skools
+1173,RESSEA,Gas,Woods
+1174,RES,All,University
+1175,RESHILL,All,University
+1176,RES,All,Hospital
+1177,RES,Only Elec,Woods
+1178,RES,Only Elec,Meadows
+1179,RESHILL,Only Elec,Meadows
+1180,RESHILL,Only Elec,College
+1181,RESHILL,Gas,Woods
+1182,RESSEA,Only Elec,Schools
+1183,COMM,Gas,Woods
+1184,RESHILL,All,School
+1185,AGR,Only Elec,Hospital
+1186,COMM,Gas,Skools
+1187,RESHILL,Gas,Meadows
+1188,AGR,Gas,Skools
+1189,AGR,All,Meadows
+1190,RES,All,Hospital
+1191,RESHILL,All,Skools
+1192,RESSEA,All,University
+1193,COMM,Gas,College
+1194,RESHILL,Only Elec,College
+1195,AGR,All,Hospital
+1196,RES,All,School
+1197,RESHILL,Gas,Meadows
+1198,RES,All,Meadows
+1199,COMM,Gas,School
+1200,RES,Only Elec,College
+1201,AGR,Only Elec,School
+1202,COMM,Only Elec,Woods
+1203,AGR,Only Elec,School
+1204,AGR,All,College
+1205,RESHILL,All,Skools
+1206,RES,Only Elec,Woods
+1207,RES,Gas,Meadows
+1208,RESHILL,All,Woods
+1209,RESSEA,Gas,Schools
+1210,RESHILL,All,Meadows
+1211,COMM,All,Meadows
+1212,COMM,All,College
+1213,RESSEA,All,Skools
+1214,AGR,Only Elec,University
+1215,RES,All,Woods
+1216,COMM,All,College
+1217,RES,Only Elec,University
+1218,RESSEA,Only Elec,School
+1219,RESHILL,Only Elec,School
+1220,RES,All,Skools
+1221,RES,Only Elec,College
+1222,RES,Only Elec,Schools
+1223,RESSEA,Gas,School
+1224,RESSEA,Gas,College
+1225,RESSEA,All,University
+1226,COMM,All,Schools
+1227,RESSEA,All,School
+1228,RES,Gas,School
+1229,RESSEA,Only Elec,Woods
+1230,RESHILL,Gas,College
+1231,RESHILL,Only Elec,College
+1232,RES,Only Elec,Woods
+1233,COMM,Gas,Skools
+1234,RESSEA,Gas,Woods
+1235,RES,Gas,School
+1236,RESHILL,Gas,School
+1237,AGR,Gas,School
+1238,RESHILL,All,Skools
+1239,RESHILL,Only Elec,Skools
+1240,AGR,Gas,Schools
+1241,RES,All,Meadows
+1242,AGR,All,Hospital
+1243,AGR,Gas,Skools
+1244,RESHILL,Only Elec,School
+1245,RESHILL,Gas,University
+1246,RESHILL,Gas,Schools
+1247,AGR,All,Woods
+1248,RESHILL,Only Elec,University
+1249,RESHILL,Gas,Woods
+1250,COMM,All,Woods
+1251,RES,All,Hospital
+1252,RESHILL,Gas,Hospital
+1253,COMM,Only Elec,Hospital
+1254,RESSEA,All,Meadows
+1255,AGR,All,Skools
+1256,RESHILL,Only Elec,College
+1257,AGR,Only Elec,Schools
+1258,COMM,Gas,Hospital
+1259,RESHILL,Gas,School
+1260,RES,Only Elec,University
+1261,COMM,Gas,University
+1262,COMM,All,Meadows
+1263,AGR,All,Woods
+1264,RES,Only Elec,College
+1265,COMM,Only Elec,Skools
+1266,RES,All,University
+1267,RESHILL,All,Hospital
+1268,AGR,All,Woods
+1269,COMM,Only Elec,College
+1270,RESSEA,Gas,Meadows
+1271,RESHILL,All,Hospital
+1272,COMM,Only Elec,Hospital
+1273,RESHILL,All,Woods
+1274,RESHILL,All,Skools
+1275,RES,All,Meadows
+1276,RESHILL,Gas,Skools
+1277,AGR,All,College
+1278,AGR,All,Skools
+1279,COMM,All,School
+1280,RESHILL,Only Elec,Skools
+1281,RES,Only Elec,College
+1282,COMM,Gas,Hospital
+1283,AGR,Gas,Schools
+1284,AGR,Gas,University
+1285,COMM,All,Hospital
+1286,AGR,Gas,Woods
+1287,AGR,All,Skools
+1288,RES,Gas,Hospital
+1289,RES,Gas,Woods
+1290,COMM,All,University
+1291,AGR,Gas,University
+1292,RES,Gas,Woods
+1293,AGR,All,University
+1294,RES,Gas,School
+1295,AGR,Only Elec,College
+1296,RESHILL,All,College
+1297,COMM,Gas,Hospital
+1298,AGR,Only Elec,Meadows
+1299,COMM,Only Elec,University
+1300,RES,All,Schools
+1301,COMM,Gas,Hospital
+1302,AGR,Only Elec,Hospital
+1303,AGR,All,Meadows
+1304,RES,Gas,School
+1305,RESHILL,Only Elec,School
+1306,RESHILL,Gas,Skools
+1307,RESHILL,Only Elec,Meadows
+1308,RESHILL,All,College
+1309,RES,All,College
+1310,COMM,Gas,Meadows
+1311,RESSEA,Only Elec,University
+1312,RESSEA,Only Elec,School
+1313,RESSEA,Gas,Skools
+1314,RES,Gas,University
+1315,AGR,Gas,University
+1316,RESHILL,All,Hospital
+1317,RESSEA,All,Skools
+1318,COMM,Only Elec,Schools
+1319,RESHILL,All,Skools
+1320,RES,Gas,School
+1321,RESHILL,Only Elec,Woods
+1322,AGR,Gas,Hospital
+1323,RESHILL,All,Woods
+1324,RESHILL,All,University
+1325,RES,Gas,Meadows
+1326,COMM,Gas,School
+1327,AGR,Gas,School
+1328,RESHILL,Gas,Schools
+1329,AGR,Gas,Hospital
+1330,RES,All,College
+1331,RES,All,Hospital
+1332,COMM,Gas,Hospital
+1333,RESSEA,Only Elec,Woods
+1334,AGR,Gas,School
+1335,RESSEA,Only Elec,Meadows
+1336,RESSEA,Gas,Woods
+1337,RES,Gas,University
+1338,AGR,All,Schools
+1339,AGR,Gas,College
+1340,RESSEA,Only Elec,Meadows
+1341,COMM,All,Hospital
+1342,AGR,Gas,College
+1343,RESHILL,Only Elec,Woods
+1344,RESSEA,Gas,Woods
+1345,AGR,Only Elec,College
+1346,RESHILL,All,Hospital
+1347,RESHILL,Only Elec,School
+1348,RESSEA,All,Woods
+1349,RESHILL,Only Elec,College
+1350,COMM,All,Schools
+1351,RESHILL,Only Elec,Meadows
+1352,COMM,Gas,Hospital
+1353,AGR,Gas,Hospital
+1354,RES,Only Elec,Woods
+1355,RESSEA,All,Skools
+1356,RESHILL,All,School
+1357,RES,Only Elec,Schools
+1358,AGR,All,Hospital
+1359,RES,Gas,College
+1360,RES,All,University
+1361,RES,Only Elec,Skools
+1362,RES,Gas,University
+1363,RESSEA,Gas,Woods
+1364,AGR,All,College
+1365,RESHILL,Gas,Meadows
+1366,RES,All,Skools
+1367,RES,Only Elec,School
+1368,RES,Gas,Skools
+1369,COMM,Gas,Schools
+1370,RES,Gas,Skools
+1371,RESSEA,Gas,Meadows
+1372,COMM,Gas,School
+1373,RES,Only Elec,Skools
+1374,RESHILL,Gas,Meadows
+1375,RES,All,Meadows
+1376,COMM,Gas,Hospital
+1377,RESSEA,All,College
+1378,RESSEA,Only Elec,Meadows
+1379,AGR,Only Elec,Meadows
+1380,RES,All,Schools
+1381,RESSEA,Only Elec,Woods
+1382,RES,Only Elec,College
+1383,RES,Gas,College
+1384,RES,All,Woods
+1385,RESSEA,Gas,Meadows
+1386,RES,Gas,College
+1387,AGR,All,Woods
+1388,RES,Only Elec,Hospital
+1389,AGR,All,College
+1390,AGR,Gas,Schools
+1391,AGR,All,Schools
+1392,AGR,Only Elec,University
+1393,COMM,Only Elec,Meadows
+1394,RESSEA,All,Hospital
+1395,RES,Gas,School
+1396,AGR,Only Elec,Meadows
+1397,COMM,Gas,Schools
+1398,RES,Only Elec,Skools
+1399,RESHILL,Gas,Hospital
+1400,COMM,Only Elec,Schools
+1401,AGR,All,Skools
+1402,RESSEA,Gas,University
+1403,COMM,All,College
+1404,RESSEA,Only Elec,School
+1405,RESSEA,All,Hospital
+1406,RESSEA,Gas,Meadows
+1407,RES,Gas,Hospital
+1408,RESHILL,Gas,Schools
+1409,COMM,All,Skools
+1410,AGR,Only Elec,Meadows
+1411,RESSEA,Gas,Hospital
+1412,RESHILL,Gas,Hospital
+1413,RES,All,University
+1414,AGR,Gas,Woods
+1415,RESSEA,All,College
+1416,RESHILL,Gas,Woods
+1417,RESSEA,Only Elec,Woods
+1418,RESHILL,Only Elec,College
+1419,COMM,Gas,University
+1420,RESHILL,Only Elec,Skools
+1421,COMM,Gas,Meadows
+1422,RES,Gas,School
+1423,AGR,All,Hospital
+1424,RESHILL,Gas,School
+1425,RESHILL,Only Elec,Schools
+1426,RESHILL,Gas,Woods
+1427,RES,Only Elec,School
+1428,COMM,Gas,University
+1429,COMM,Gas,Schools
+1430,RES,Gas,Schools
+1431,RESSEA,Only Elec,Skools
+1432,COMM,All,University
+1433,RES,All,Skools
+1434,RESHILL,Only Elec,School
+1435,RESHILL,Only Elec,Woods
+1436,AGR,Only Elec,Schools
+1437,RESSEA,Only Elec,Meadows
+1438,RESHILL,Only Elec,University
+1439,AGR,Only Elec,University
+1440,RESHILL,Gas,College
+1441,RES,Gas,Schools
+1442,RES,Gas,Hospital
+1443,AGR,Only Elec,College
+1444,RESHILL,Only Elec,University
+1445,RES,Gas,Hospital
+1446,AGR,Only Elec,Woods
+1447,COMM,Only Elec,Hospital
+1448,AGR,Gas,Skools
+1449,RES,Only Elec,Hospital
